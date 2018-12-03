@@ -1,0 +1,1 @@
+Following Francis Sunday's Go/Gin/React tutorial from https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
